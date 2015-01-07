@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Avião",
+        "path": "airplane.png"
+    },
+    {
+        "name": "Balões",
+        "path": "balloons.png"
+    },
+    {
+        "name": "Camara",
+        "path": "camera.png"
+    },
+    {
+        "name": "Carro",
+        "path": "car.png"
+    },
+    {
+        "name": "Gato",
+        "path": "cat.png"
+    },
+    {
+        "name": "Cadeira",
+        "path": "chair.png"
+    },
+    {
+        "name": "Clip",
+        "path": "clip.png"
+    },
+    {
+        "name": "Relogio",
+        "path": "clock.png"
+    },
+    {
+        "name": "Nuvem",
+        "path": "cloud.png"
+    },
+    {
+        "name": "Computador",
+        "path": "computer.png"
+    },
+    {
+        "name": "Envelope",
+        "path": "envelope.png"
+    },
+    {
+        "name": "Olho",
+        "path": "eye.png"
+    },
+    {
+        "name": "Bandeira",
+        "path": "flag.png"
+    },
+    {
+        "name": "Pasta",
+        "path": "folder.png"
+    },
+    {
+        "name": "Pé",
+        "path": "foot.png"
+    },
+    {
+        "name": "Gráfico",
+        "path": "graph.png"
+    },
+    {
+        "name": "Casa",
+        "path": "house.png"
+    },
+    {
+        "name": "Chave",
+        "path": "key.png"
+    },
+    {
+        "name": "Folha",
+        "path": "leaf.png"
+    },
+    {
+        "name": "Lâmpada Elétrica",
+        "path": "light-bulb.png"
+    },
+    {
+        "name": "Cadeado",
+        "path": "lock.png"
+    },
+    {
+        "name": "Lupa",
+        "path": "magnifying-glass.png"
+    },
+    {
+        "name": "Homem",
+        "path": "man.png"
+    },
+    {
+        "name": "Nota Musical",
+        "path": "music-note.png"
+    },
+    {
+        "name": "Calças",
+        "path": "pants.png"
+    },
+    {
+        "name": "Lápis",
+        "path": "pencil.png"
+    },
+    {
+        "name": "Impressora",
+        "path": "printer.png"
+    },
+    {
+        "name": "Robot",
+        "path": "robot.png"
+    },
+    {
+        "name": "Tesoura",
+        "path": "scissors.png"
+    },
+    {
+        "name": "Óculos de Sol",
+        "path": "sunglasses.png"
+    },
+    {
+        "name": "Etiqueta",
+        "path": "tag.png"
+    },
+    {
+        "name": "Arvore",
+        "path": "tree.png"
+    },
+    {
+        "name": "Camião",
+        "path": "truck.png"
+    },
+    {
+        "name": "T-Shirt",
+        "path": "t-shirt.png"
+    },
+    {
+        "name": "Chapéu-de-Chuva",
+        "path": "umbrella.png"
+    },
+    {
+        "name": "Mulher",
+        "path": "woman.png"
+    },
+    {
+        "name": "Globo",
+        "path": "world.png"
+    }
+]

@@ -1,0 +1,29 @@
+{
+"version": "0.0.1",
+"name": "hugocabral/visualcaptcha-laravel-jquery",
+"description": "Laravel library for visualCaptcha using jQuery. VisualCaptcha is created by EmotionLoop",
+"keywords": ["laravel", "laravel4", "captcha", "visualCaptcha", "security", "jquery"],
+"homepage": "http://visualcaptcha.hugocabral.pt",
+"license": "MIT",
+"authors": [
+{
+"name": "emotionLoop",
+"email": "hello@emotionloop.com",
+"homepage": "http://emotionloop.com"
+},
+{
+"name": "hugocabral",
+"email": "geral@hugocabral.pt",
+"homepage": "http://hugocabral.pt"
+}
+],
+"support": {
+"issues": "https://github.com/hugocabral/visualCaptcha-Laravel-jQuery/issues"
+},
+"require": {
+"php": ">=5.3"
+},
+"autoload": {
+"psr-0": { "visualCaptcha": "src/" }
+}
+}
